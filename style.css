@@ -1,1 +1,2 @@
-/* Add styles here */
+@import "./style/global.css/";
+@import "./styles/root.css";
